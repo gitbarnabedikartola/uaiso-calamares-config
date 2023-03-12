@@ -860,7 +860,7 @@ O instalador será fechado e todas as alterações serão perdidas.</translation
     <message>
       <location filename="../src/modules/welcome/Config.cpp" line="81"/>
       <source>This program will ask you some questions and set up %2 on your computer.</source>
-      <translation>Este programa irá fazer-lhe algumas perguntas e configurar %2 no computador.</translation>
+      <translation>Você precisará responder algumas perguntas para configurar o %2 no computador.</translation>
     </message>
     <message>
       <location filename="../src/modules/welcome/Config.cpp" line="269"/>
