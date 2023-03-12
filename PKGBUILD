@@ -1,8 +1,8 @@
 # Maintainer: Mauricio de Lima <emauricio@uai21.com>
 pkgname=uaiso-calamares-config
 _destname1="/etc"
-pkgver=22.06
-pkgrel=16
+pkgver=$(date +%y.%m.%d)
+pkgrel=$(date +%H%M)
 pkgdesc="Calamares para UAISO"
 arch=('any')
 url="https://github.com/UaiSO21"
