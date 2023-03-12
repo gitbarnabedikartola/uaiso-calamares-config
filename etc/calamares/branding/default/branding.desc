@@ -10,7 +10,6 @@
 ---
 componentName:  default
 
-
 ### WELCOME / OVERALL WORDING
 #
 # These settings affect some overall phrasing and looks,
@@ -121,12 +120,12 @@ navigation: widget
 # are visible as buttons there if the corresponding *show* keys
 # are set to "true" (they can also be overridden).
 strings:
-    productName:         ALCI
-    shortProductName:    ALCI
+    productName:         UaiSO
+    shortProductName:    UaiSO
     version:             2021.01.1
     shortVersion:        2020.01.1
-    versionedName:       ALCI
-    shortVersionedName:  ALCI
+    versionedName:       UaiSO
+    shortVersionedName:  UaiSO
     bootloaderEntryName: Generic
 
 # These images are loaded from the branding module directory.
