@@ -2,7 +2,7 @@
 pkgname=uaiso-calamares-config
 _destname1="/etc"
 pkgver=22.06
-pkgrel=15
+pkgrel=16
 pkgdesc="Calamares para UAISO"
 arch=('any')
 url="https://github.com/UaiSO21"
