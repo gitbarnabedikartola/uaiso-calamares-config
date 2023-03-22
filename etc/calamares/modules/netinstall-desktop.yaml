@@ -1,0 +1,19 @@
+- name: "Desktop: Plasma"
+  description: "Installs plasma desktop"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - egl-wayland
+    - plasma-meta
+    - plasma-wayland-session
+    - sddm
+    - xorg-xwayland-git
+    - konsole
+    - dolphin
+    - dolphin-plugins
+    - uaiso-skel-plasma
+    - uaiso-evolve-orion
+    - uaiso-plasma-user
+    - kate
+    - grub-btrfs-timeshift
